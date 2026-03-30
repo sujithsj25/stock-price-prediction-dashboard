@@ -1,7 +1,3 @@
-Here is your **complete, clean, and beautiful README.md** — ready to copy-paste directly into GitHub 👇
-
----
-
 # 📈 Stock Price Prediction Dashboard
 
 A powerful and interactive **Stock Price Prediction Web App** built with **Streamlit**, combining **Time Series Analysis (ARIMA)** and **Deep Learning (LSTM)** to forecast stock prices.
