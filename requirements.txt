@@ -1,0 +1,11 @@
+streamlit
+   pandas
+   yfinance
+   plotly
+   requests
+   numpy
+   statsmodels
+   tensorflow
+   scikit-learn
+   matplotlib
+   openpyxl

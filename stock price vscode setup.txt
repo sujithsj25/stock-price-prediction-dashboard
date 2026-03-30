@@ -1,0 +1,58 @@
+Python version- 3.11
+
+1) Your Python installation
+
+    pip --version
+
+2) Create a Virtual Environment
+     
+    python -m venv venv
+
+3) Activate it:
+
+    .\.venv\Scripts\Activate.ps1
+
+4) Install Required Python Libraries
+
+    pip install streamlit pandas yfinance plotly requests numpy statsmodels tensorflow           scikit-learn
+
+5) Additional packages used in code
+
+  pip install keras
+  pip install matplotlib
+  pip install openpyxl  # optional if Excel is used
+  pip install tqdm      # optional
+
+6) Full List (Ready for requirements.txt)
+    
+   streamlit
+   pandas
+   yfinance
+   plotly
+   requests
+   numpy
+   statsmodels
+   tensorflow
+   scikit-learn
+   matplotlib
+   openpyxl
+
+Optional (recommended)
+
+   tqdm
+   keras
+
+
+7) Install all libraries
+ 
+   pip install -r requirements.txt
+
+8) Run the Streamlit app
+    
+    streamlit run stock_price.py
+
+9) remove venv
+    Remove-Item -Recurse -Force .venv
+
+10) python complite path + create venv:
+    C:\Users\SUJITH\AppData\Local\Programs\Python\Python310\python.exe -m venv .venv
