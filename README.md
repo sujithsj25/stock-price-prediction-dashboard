@@ -198,7 +198,7 @@ Remove-Item -Recurse -Force .venv
 
 ## 👨‍💻 Author
 
-**Sujith**
+**Sujith S J**
 
 ---
 
